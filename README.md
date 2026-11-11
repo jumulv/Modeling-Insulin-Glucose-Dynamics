@@ -69,3 +69,8 @@ To run one of the scripts, use the `uv run` command:
 ```bash
 uv run 00_Patient_Cohort.py
 ```
+
+In `config.toml, each section coordinates to the variables used within each script.
+
+## Results
+`notebooks/` encompasses all the figures and values used in my thesis and can be viewed.
