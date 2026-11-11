@@ -1,4 +1,4 @@
-# Estimating Nonlinear Insulin-Glucose Dynamics in Critically-ill Patients.
+# Modeling Nonlinear Insulin-Glucose Dynamics in Critically-ill Patients.
 
 This projects contains the source code for my Master's thesis. The main
 objectives of the project was to develop pipeline for generating synthetic
